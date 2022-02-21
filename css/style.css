@@ -1,0 +1,24 @@
+#maBanierre{
+    margin-top: 0px;
+    height: 300px;
+    width: 100%;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.coucou {
+    text-align: center;
+}
+
+#div1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button{
+    width: 100%;
+}
